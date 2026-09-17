@@ -1,0 +1,106 @@
+/* SELECTED WORK › VIDEO 影像作品 */
+.vl {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.vl__scroll {
+  flex: 1 1 auto;
+  overflow-y: auto;
+  padding: 6vh 7vw 8vh;
+}
+
+.vl__scroll--solo {
+  padding: 8vh 7vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vl__inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6vh;
+}
+
+.vl__inner--solo {
+  max-width: 980px;
+  gap: 4vh;
+}
+
+.vl__item {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4vh;
+  align-items: start;
+}
+
+.vl__item--solo {
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 880px) {
+  .vl__item {
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.4fr);
+    gap: 5vw;
+  }
+}
+
+.vl__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.vl__no {
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  color: #9a9a9e;
+  font-weight: 700;
+}
+
+.vl__title {
+  margin: 0;
+  font-size: clamp(20px, 2.4vw, 30px);
+  font-weight: 700;
+  color: #14161a;
+}
+
+.vl__cn {
+  margin: 0;
+  font-size: 14px;
+  color: #6c6c70;
+}
+
+.vl__desc {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #3a3a3e;
+}
+
+.vl__player {
+  position: relative;
+  background: #0b0b0d;
+  border-radius: 16px;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.35);
+}
+
+.vl__video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background: #0b0b0d;
+}
+
+.vl__poster-fallback {
+  display: none;
+}

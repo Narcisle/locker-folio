@@ -1,0 +1,165 @@
+===== WORK_VARIANTS =====
+  '/assets/posters/baituan.webp': [
+    { width: 400, url: '/assets/posters/baituan-400.webp', bytes: 38648, version: '42591a6e' },
+    { width: 700, url: '/assets/posters/baituan-700.webp', bytes: 82334, version: '319ef8f9' },
+  ],
+  '/assets/posters/wenhua.webp': [
+    { width: 400, url: '/assets/posters/wenhua-400.webp', bytes: 27432, version: '339ba85d' },
+    { width: 700, url: '/assets/posters/wenhua-700.webp', bytes: 62792, version: '6aeb74d9' },
+  ],
+  '/assets/posters/qiuyuan.webp': [
+    { width: 400, url: '/assets/posters/qiuyuan-400.webp', bytes: 43254, version: '032ddfdc' },
+    { width: 700, url: '/assets/posters/qiuyuan-700.webp', bytes: 96324, version: 'bb5b3107' },
+  ],
+  '/assets/posters/recruit1.webp': [
+    { width: 400, url: '/assets/posters/recruit1-400.webp', bytes: 36096, version: 'dace2b98' },
+    { width: 700, url: '/assets/posters/recruit1-700.webp', bytes: 70272, version: 'c0d18c8e' },
+  ],
+  '/assets/posters/recruit2.webp': [
+    { width: 400, url: '/assets/posters/recruit2-400.webp', bytes: 47744, version: '68dd69fa' },
+    { width: 700, url: '/assets/posters/recruit2-700.webp', bytes: 107394, version: '77e45b5a' },
+  ],
+  '/assets/photo/p1.webp': [
+    { width: 300, url: '/assets/photo/p1-300.webp', bytes: 75886, version: 'e6179503' },
+    { width: 600, url: '/assets/photo/p1-600.webp', bytes: 258138, version: '309834ab' },
+    { width: 900, url: '/assets/photo/p1-900.webp', bytes: 376330, version: '49b23dee' },
+  ],
+  '/assets/photo/p2.webp': [
+    { width: 300, url: '/assets/photo/p2-300.webp', bytes: 14382, version: 'cbcf8794' },
+    { width: 600, url: '/assets/photo/p2-600.webp', bytes: 47624, version: '4a07c1b4' },
+    { width: 900, url: '/assets/photo/p2-900.webp', bytes: 69102, version: '8a62cec6' },
+  ],
+  '/assets/photo/p3.webp': [
+    { width: 300, url: '/assets/photo/p3-300.webp', bytes: 40922, version: 'c7ec5923' },
+    { width: 600, url: '/assets/photo/p3-600.webp', bytes: 142510, version: 'b3323744' },
+    { width: 900, url: '/assets/photo/p3-900.webp', bytes: 219908, version: 'ec1e884f' },
+  ],
+  '/assets/photo/p4.webp': [
+    { width: 300, url: '/assets/photo/p4-300.webp', bytes: 39290, version: 'e54238db' },
+    { width: 600, url: '/assets/photo/p4-600.webp', bytes: 129610, version: '873f27ca' },
+    { width: 900, url: '/assets/photo/p4-900.webp', bytes: 188472, version: 'd00e0609' },
+  ],
+  '/assets/photo/p5.webp': [
+    { width: 300, url: '/assets/photo/p5-300.webp', bytes: 25896, version: 'ebc9cc26' },
+    { width: 600, url: '/assets/photo/p5-600.webp', bytes: 70944, version: 'b60e555e' },
+    { width: 900, url: '/assets/photo/p5-900.webp', bytes: 94916, version: '79e4b647' },
+  ],
+  '/assets/photo/p6.webp': [
+    { width: 300, url: '/assets/photo/p6-300.webp', bytes: 27970, version: 'fa1a360f' },
+    { width: 600, url: '/assets/photo/p6-600.webp', bytes: 87326, version: '33ce23b8' },
+    { width: 900, url: '/assets/photo/p6-900.webp', bytes: 149954, version: '8f3ad9e5' },
+  ],
+  '/assets/photo/p7.webp': [
+    { width: 300, url: '/assets/photo/p7-300.webp', bytes: 22658, version: '270e746e' },
+    { width: 600, url: '/assets/photo/p7-600.webp', bytes: 86746, version: 'a5b698b4' },
+    { width: 900, url: '/assets/photo/p7-900.webp', bytes: 127622, version: '36c2bbb0' },
+  ],
+  '/assets/photo/p8.webp': [
+    { width: 300, url: '/assets/photo/p8-300.webp', bytes: 46502, version: '282ce35a' },
+    { width: 600, url: '/assets/photo/p8-600.webp', bytes: 165656, version: 'a317a50c' },
+    { width: 900, url: '/assets/photo/p8-900.webp', bytes: 235260, version: 'a9fd3021' },
+  ],
+  '/assets/photo/p9.webp': [
+    { width: 300, url: '/assets/photo/p9-300.webp', bytes: 44874, version: '77040d10' },
+    { width: 600, url: '/assets/photo/p9-600.webp', bytes: 164364, version: 'eeb5d711' },
+    { width: 900, url: '/assets/photo/p9-900.webp', bytes: 252334, version: 'bb6f6184' },
+  ],
+  '/assets/photo/p10.webp': [
+    { width: 300, url: '/assets/photo/p10-300.webp', bytes: 45620, version: '7a863314' },
+    { width: 600, url: '/assets/photo/p10-600.webp', bytes: 157632, version: '6c9dae7d' },
+    { width: 900, url: '/assets/photo/p10-900.webp', bytes: 233356, version: 'f6e417d9' },
+  ],
+  '/assets/photo/p11.webp': [
+    { width: 300, url: '/assets/photo/p11-300.webp', bytes: 45282, version: 'afb1de84' },
+    { width: 600, url: '/assets/photo/p11-600.webp', bytes: 173594, version: '50347849' },
+    { width: 900, url: '/assets/photo/p11-900.webp', bytes: 363878, version: '6fbc3f7b' },
+  ],
+  '/assets/photo/p12.webp': [
+    { width: 300, url: '/assets/photo/p12-300.webp', bytes: 46452, version: '3e468552' },
+    { width: 600, url: '/assets/photo/p12-600.webp', bytes: 175912, version: '812472c4' },
+    { width: 900, url: '/assets/photo/p12-900.webp', bytes: 270410, version: '18ed43fd' },
+  ],
+  '/assets/articles/a1.webp': [
+    { width: 420, url: '/assets/articles/a1-420.webp', bytes: 40986, version: 'f62f9160' },
+    { width: 760, url: '/assets/articles/a1-760.webp', bytes: 40986, version: 'f62f9160' },
+  ],
+  '/assets/articles/a2.webp': [
+    { width: 420, url: '/assets/articles/a2-420.webp', bytes: 43232, version: 'cc98fbce' },
+    { width: 760, url: '/assets/articles/a2-760.webp', bytes: 43232, version: 'cc98fbce' },
+  ],
+  '/assets/articles/a3.webp': [
+    { width: 420, url: '/assets/articles/a3-420.webp', bytes: 39814, version: 'a7f1416f' },
+    { width: 760, url: '/assets/articles/a3-760.webp', bytes: 39814, version: 'a7f1416f' },
+  ],
+  '/assets/notes/n1.webp': [
+    { width: 400, url: '/assets/notes/n1-400.webp', bytes: 40450, version: 'cfd3e82f' },
+    { width: 700, url: '/assets/notes/n1-700.webp', bytes: 58606, version: 'e2a1aefb' },
+  ],
+  '/assets/notes/n2.webp': [
+    { width: 400, url: '/assets/notes/n2-400.webp', bytes: 30428, version: '3f08e540' },
+    { width: 700, url: '/assets/notes/n2-700.webp', bytes: 43840, version: 'ee5e116e' },
+  ],
+  '/assets/notes/n3.webp': [
+    { width: 400, url: '/assets/notes/n3-400.webp', bytes: 29606, version: '2a0503f2' },
+    { width: 700, url: '/assets/notes/n3-700.webp', bytes: 40962, version: '7a44b254' },
+  ],
+  '/assets/notes/n4.webp': [
+    { width: 400, url: '/assets/notes/n4-400.webp', bytes: 26830, version: 'f34b7d85' },
+    { width: 700, url: '/assets/notes/n4-700.webp', bytes: 37660, version: '8df222cf' },
+  ],
+  '/assets/notes/n5.webp': [
+    { width: 400, url: '/assets/notes/n5-400.webp', bytes: 24296, version: '67ee2632' },
+    { width: 700, url: '/assets/notes/n5-700.webp', bytes: 33942, version: 'a4a47219' },
+  ],
+  '/assets/notes/n6.webp': [
+    { width: 400, url: '/assets/notes/n6-400.webp', bytes: 37684, version: '60cac700' },
+    { width: 700, url: '/assets/notes/n6-700.webp', bytes: 53464, version: '86d3bc5d' },
+  ],
+  '/assets/notes/n7.webp': [
+    { width: 400, url: '/assets/notes/n7-400.webp', bytes: 22540, version: '207a9846' },
+    { width: 700, url: '/assets/notes/n7-700.webp', bytes: 28968, version: '107a2e11' },
+  ],
+  '/assets/notes/n8.webp': [
+    { width: 400, url: '/assets/notes/n8-400.webp', bytes: 32050, version: '1c675fc8' },
+    { width: 700, url: '/assets/notes/n8-700.webp', bytes: 42958, version: 'dfe53457' },
+  ],
+  '/assets/notes/n9.webp': [
+    { width: 400, url: '/assets/notes/n9-400.webp', bytes: 35134, version: '5831766a' },
+    { width: 700, url: '/assets/notes/n9-700.webp', bytes: 48798, version: '944e2449' },
+  ],
+  '/assets/cover/v1.webp': [
+    { width: 480, url: '/assets/cover/v1-480.webp', bytes: 31038, version: '71da4727' },
+    { width: 640, url: '/assets/cover/v1-640.webp', bytes: 46388, version: '19a2cae2' },
+    { width: 960, url: '/assets/cover/v1-960.webp', bytes: 82778, version: '183949a9' },
+  ],
+===== WORK_ASSETS =====
+  lazyAsset('photo.p1', '/assets/photo/p1.webp', 'work.photo', 376330, '49b23dee'),
+  lazyAsset('photo.p2', '/assets/photo/p2.webp', 'work.photo', 69102, '8a62cec6'),
+  lazyAsset('photo.p3', '/assets/photo/p3.webp', 'work.photo', 219908, 'ec1e884f'),
+  lazyAsset('photo.p4', '/assets/photo/p4.webp', 'work.photo', 188472, 'd00e0609'),
+  lazyAsset('photo.p5', '/assets/photo/p5.webp', 'work.photo', 94916, '79e4b647'),
+  lazyAsset('photo.p6', '/assets/photo/p6.webp', 'work.photo', 227880, 'b4c11bd3'),
+  lazyAsset('photo.p7', '/assets/photo/p7.webp', 'work.photo', 127622, '36c2bbb0'),
+  lazyAsset('photo.p8', '/assets/photo/p8.webp', 'work.photo', 235260, 'a9fd3021'),
+  lazyAsset('photo.p9', '/assets/photo/p9.webp', 'work.photo', 252334, 'bb6f6184'),
+  lazyAsset('photo.p10', '/assets/photo/p10.webp', 'work.photo', 233356, 'f6e417d9'),
+  lazyAsset('photo.p11', '/assets/photo/p11.webp', 'work.photo', 618516, '25cd0e87'),
+  lazyAsset('photo.p12', '/assets/photo/p12.webp', 'work.photo', 270410, '18ed43fd'),
+  lazyAsset('article.a1', '/assets/articles/a1.webp', 'work.article', 40986, 'f62f9160'),
+  lazyAsset('article.a2', '/assets/articles/a2.webp', 'work.article', 43232, 'cc98fbce'),
+  lazyAsset('article.a3', '/assets/articles/a3.webp', 'work.article', 39814, 'a7f1416f'),
+  lazyAsset('note.n1', '/assets/notes/n1.webp', 'work.note', 58606, 'e2a1aefb'),
+  lazyAsset('note.n2', '/assets/notes/n2.webp', 'work.note', 43840, 'ee5e116e'),
+  lazyAsset('note.n3', '/assets/notes/n3.webp', 'work.note', 40962, '7a44b254'),
+  lazyAsset('note.n4', '/assets/notes/n4.webp', 'work.note', 37660, '8df222cf'),
+  lazyAsset('note.n5', '/assets/notes/n5.webp', 'work.note', 33942, 'a4a47219'),
+  lazyAsset('note.n6', '/assets/notes/n6.webp', 'work.note', 53464, '86d3bc5d'),
+  lazyAsset('note.n7', '/assets/notes/n7.webp', 'work.note', 28968, '107a2e11'),
+  lazyAsset('note.n8', '/assets/notes/n8.webp', 'work.note', 42958, 'dfe53457'),
+  lazyAsset('note.n9', '/assets/notes/n9.webp', 'work.note', 48798, '944e2449'),
+  lazyAsset('poster.baituan', '/assets/posters/baituan.webp', 'work.poster', 179936, '1d233026'),
+  lazyAsset('poster.wenhua', '/assets/posters/wenhua.webp', 'work.poster', 213546, '8ba83788'),
+  lazyAsset('poster.qiuyuan', '/assets/posters/qiuyuan.webp', 'work.poster', 231156, '384e209d'),
+  lazyAsset('poster.recruit1', '/assets/posters/recruit1.webp', 'work.poster', 144924, '0918e8ed'),
+  lazyAsset('poster.recruit2', '/assets/posters/recruit2.webp', 'work.poster', 244894, '99aac174'),
+  lazyAsset('cover.v1', '/assets/cover/v1.webp', 'work.cover', 434640, '2962d642'),

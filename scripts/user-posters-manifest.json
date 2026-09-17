@@ -1,0 +1,106 @@
+{
+  "posters": [
+    {
+      "src": "百团大战.png",
+      "slug": "baituan",
+      "title": "百团大战 · BAITUAN DAZHAN"
+    },
+    {
+      "src": "文化大观园.png",
+      "slug": "wenhua",
+      "title": "声入万卷 · WENHUA DAGUANYUAN"
+    },
+    {
+      "src": "游园会.png",
+      "slug": "qiuyuan",
+      "title": "盛世国庆·遇中秋 · NATIONAL & MID-AUTUMN"
+    },
+    {
+      "src": "招新1.png",
+      "slug": "recruit1",
+      "title": "华音社招新 · RECRUITMENT I"
+    },
+    {
+      "src": "招新2.png",
+      "slug": "recruit2",
+      "title": "华音社招新 · RECRUITMENT II"
+    }
+  ],
+  "files": [
+    {
+      "url": "/assets/posters/baituan.webp",
+      "bytes": 179936,
+      "version": "1d233026"
+    },
+    {
+      "url": "/assets/posters/baituan-400.webp",
+      "bytes": 38648,
+      "version": "42591a6e"
+    },
+    {
+      "url": "/assets/posters/baituan-700.webp",
+      "bytes": 82334,
+      "version": "319ef8f9"
+    },
+    {
+      "url": "/assets/posters/wenhua.webp",
+      "bytes": 213546,
+      "version": "8ba83788"
+    },
+    {
+      "url": "/assets/posters/wenhua-400.webp",
+      "bytes": 27432,
+      "version": "339ba85d"
+    },
+    {
+      "url": "/assets/posters/wenhua-700.webp",
+      "bytes": 62792,
+      "version": "6aeb74d9"
+    },
+    {
+      "url": "/assets/posters/qiuyuan.webp",
+      "bytes": 231156,
+      "version": "384e209d"
+    },
+    {
+      "url": "/assets/posters/qiuyuan-400.webp",
+      "bytes": 43254,
+      "version": "032ddfdc"
+    },
+    {
+      "url": "/assets/posters/qiuyuan-700.webp",
+      "bytes": 96324,
+      "version": "bb5b3107"
+    },
+    {
+      "url": "/assets/posters/recruit1.webp",
+      "bytes": 144924,
+      "version": "0918e8ed"
+    },
+    {
+      "url": "/assets/posters/recruit1-400.webp",
+      "bytes": 36096,
+      "version": "dace2b98"
+    },
+    {
+      "url": "/assets/posters/recruit1-700.webp",
+      "bytes": 70272,
+      "version": "c0d18c8e"
+    },
+    {
+      "url": "/assets/posters/recruit2.webp",
+      "bytes": 244894,
+      "version": "99aac174"
+    },
+    {
+      "url": "/assets/posters/recruit2-400.webp",
+      "bytes": 47744,
+      "version": "68dd69fa"
+    },
+    {
+      "url": "/assets/posters/recruit2-700.webp",
+      "bytes": 107394,
+      "version": "77e45b5a"
+    }
+  ]
+}
